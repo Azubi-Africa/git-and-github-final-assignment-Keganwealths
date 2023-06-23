@@ -1,4 +1,4 @@
-# Git-and-GitHub-final-assignment
+## Git-and-GitHub-final-assignment
 This template repository hosts the final Git & GitHub assignment.
 
 ## Description
