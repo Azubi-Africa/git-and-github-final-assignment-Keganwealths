@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 | Word-Count   |  Performs Word Count in a Text          | https://github.com/Keganwealths/Word-Count.git       |
-| 2 |  new-betting-app           |  Predict Football out come        | https://github.com/Keganwealths/new-betting-app.git   |
+| 2 |  new-betting-app           |  Predict Football out come on three odds     | https://github.com/Keganwealths/new-betting-app.git   |
 | 3 | Auction-Program         |  Auction Bids and find winner          | https://github.com/Keganwealths/Auction-Program.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
